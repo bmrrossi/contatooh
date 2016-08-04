@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <meta charset="uft-8" />
+    <title>Contatooh</title>
+  </head>
+  <body>
+    <h1>Seja bem-vindo ao <%= nome %> </h1>
+  </body>
+</html>
